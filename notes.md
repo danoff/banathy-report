@@ -51,6 +51,8 @@ Curtis 1982: stages of development
     -   (Science, Print)
 -   \"STAGE FOUR is our current evolutionary stage.\"
     -   (PEERAGOGY?,telecommunication)
+    
+![Spiral](http://metameso.org/~joe/pics/stages.png)
 
 Education and society
 =====================
@@ -123,8 +125,6 @@ Vitruvius
 apprenticeships which are carried out in other arts,\" and \"technology
 sets forth and explains things wrought in accordance with technical
 skills and methods.\"
-
-![Spiral](http://metameso.org/~joe/pics/stages.png)
 
 Jumping Mouse
 =============
