@@ -95,6 +95,8 @@ Administration       Community                  Coordination
 Governance           Larger Society             Integration         
 ```
 
+![Spiral](http://metameso.org/~joe/pics/box.png)
+
 \"The GOVERNANCE LEVEL is in focus when the purpose of education is
 indoctrination and enculturation. Top decision makers (in the government
 or in religious institutions) define policies and regulations, and
@@ -121,6 +123,8 @@ Vitruvius
 apprenticeships which are carried out in other arts,\" and \"technology
 sets forth and explains things wrought in accordance with technical
 skills and methods.\"
+
+![Spiral](http://metameso.org/~joe/pics/stages.png)
 
 Jumping Mouse
 =============
