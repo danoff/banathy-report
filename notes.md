@@ -172,11 +172,10 @@ The major structural aspects of our present system include:
 -   isolation
 -   administrative organization
 
-```{=html}
-<!-- -->
+```{.text}
+ Horse -> Railroad -> Airplane
+ One room school house -> Industrial model of education -> ...
 ```
-    Horse -> Railroad -> Airplane
-    One room school house -> Industrial model of education -> ...
 
 \"Many solutions that are initially thought of as unworkable under
 current constraints, are in fact workable... much better results are
