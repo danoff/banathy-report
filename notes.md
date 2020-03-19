@@ -80,6 +80,8 @@ focusing on its problems hinders the RE-IMAGING of education.\"
 existing system... we should dream of kinds of education that never were
 and make the dream come true by design.\"
 
+![Spiral](http://metameso.org/~joe/pics/image.png)
+
 DESIGN IS FUTURE CREATING AND NOT FUTURE GUESSING.
 ==================================================
 
