@@ -18,25 +18,25 @@ I also had a quick look at:
 Summary
 =======
 
-\"First, the book aims at guiding the reader to understand what systems
+"First, the book aims at guiding the reader to understand what systems
 design is, how it works, why we need it.
 
 The second purpose is to develop an appreciation of the power we can
-gain by acquiring ever-unfolding competence in system design.\"
+gain by acquiring ever-unfolding competence in system design."
 
 Change
 ======
 
-\"Before we engage in the design of our lives and our systems, we need
-to reflect on how we ourselves relate to change.\"
+"Before we engage in the design of our lives and our systems, we need
+to reflect on how we ourselves relate to change."
 
 -   Reactive
 -   Inactive
 -   Preactive (ride the tide)
 -   Interactive (shoot the rapids)
 
-\"The future depends more \'on what we do between now and then than it
-does on what has happened until now.\'\"
+"The future depends more 'on what we do between now and then than it
+does on what has happened until now.'"
 
 Curtis 1982: stages of development
 ==================================
@@ -160,9 +160,9 @@ Transition details
 Appendix
 ========
 
-\"This article describes a general approach and a specific strategy for
+"This article describes a general approach and a specific strategy for
 effecting the needed structural changes, and, also describes some
-initial progress on implementing that strategy.\"
+initial progress on implementing that strategy."
 
 The major structural aspects of our present system include:
 
@@ -177,9 +177,9 @@ The major structural aspects of our present system include:
  One room school house -> Industrial model of education -> ...
 ```
 
-\"Many solutions that are initially thought of as unworkable under
+"Many solutions that are initially thought of as unworkable under
 current constraints, are in fact workable... much better results are
-achieved by initially thinking in the ideal.\"
+achieved by initially thinking in the ideal."
 
 <https://link.springer.com/article/10.1007/BF02905306>
 <https://www.researchgate.net/publication/225459686_The_Search_for_Meaningful_Reform_A_Third-Wave_Educational_System_38/link/02e7e5380ab6b103b4000000/download>
