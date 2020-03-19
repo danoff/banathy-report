@@ -183,5 +183,5 @@ The major structural aspects of our present system include:
 current constraints, are in fact workable... much better results are
 achieved by initially thinking in the ideal."
 
-<https://link.springer.com/article/10.1007/BF02905306>
-<https://www.researchgate.net/publication/225459686_The_Search_for_Meaningful_Reform_A_Third-Wave_Educational_System_38/link/02e7e5380ab6b103b4000000/download>
+- The search for meaningful reform: A third-wave educational system: <https://link.springer.com/article/10.1007/BF02905306>
+- [Online](https://www.researchgate.net/publication/225459686_The_Search_for_Meaningful_Reform_A_Third-Wave_Educational_System_38/link/02e7e5380ab6b103b4000000/download)
