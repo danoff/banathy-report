@@ -198,4 +198,5 @@ _Banathy's books often included reflective exercises for the reader to do, somet
 > 3. http://blog.reframeit.com/2017/05/16/under-utilized-collaborative-intelligence/
 > 4. http://blog.reframeit.com/about/partners/
 > 5. https://www.volunteermatch.org/search/org1130924.jsp#more_info_tab
+> 6. https://real-leaders.com/leveraging-micro-leadership-to-make-aspirational-goals-achievable/
 
