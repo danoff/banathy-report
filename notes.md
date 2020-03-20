@@ -185,3 +185,17 @@ achieved by initially thinking in the ideal."
 
 - The search for meaningful reform: A third-wave educational system: <https://link.springer.com/article/10.1007/BF02905306>
 - [Online](https://www.researchgate.net/publication/225459686_The_Search_for_Meaningful_Reform_A_Third-Wave_Educational_System_38/link/02e7e5380ab6b103b4000000/download)
+
+Original Interactive Exercise (10 min)
+=====================================
+
+_Banathy's books often included reflective exercises for the reader to do, sometimes even making use of a wide margin (like in the Tufte format) as a place to write things down.  Let's follow this same basic pattern and include an interactive component._
+
+> I happened to get into a call with leaders in a 'systemic change' initiative the same day that I prepared the notes above.
+> As an exercise, please think about whether this contemporary (2020) organization implements the kinds of patterns that Banathy outlined. Where could a return to themes raised above be useful for them?  Where and how have they potentially gone beyond his methods? How could the Peeragogy project support initiatives like the ones we see described here? Have a quick look through one or more of these links, follow further links from there as needed, form an opinion, and report back.
+> 1. http://blog.reframeit.com/
+> 2. https://www.youtube.com/watch?v=gbKCu2bXtrw
+> 3. http://blog.reframeit.com/2017/05/16/under-utilized-collaborative-intelligence/
+> 4. http://blog.reframeit.com/about/partners/
+> 5. https://www.volunteermatch.org/search/org1130924.jsp#more_info_tab
+
